@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android App Development**
 
-- 📫 How to reach me **officialprofin@gmail.com**
+- 📫 How to reach me **engineer9aman@gmail.com**
 
 - 📄 [**View My Resume**](https://engineer-aman-sharma.github.io/resume/resume.pdf)
 
